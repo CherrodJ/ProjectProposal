@@ -12,7 +12,9 @@ Drug Use
 5. https://cdispatch.com/news/2022-02-07/more-than-200-pounds-of-cocaine-found-during-traffic-stop/
 
 SOLUTION:
-A software application that will allow drug counselors to hold rallies for drug users that are willing to get clean and allow counselors to create an online presence, social media, for drug users looking for help.
+A software application that will allow drug counselors to hold rallies for drug users that’s willing to become clean and drug free. Also, allow counselors to create an online presence, social media, for drug users through their journey in becoming drug free. 
+
+
 
 
 
